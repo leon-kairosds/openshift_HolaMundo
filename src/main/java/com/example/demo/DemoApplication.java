@@ -12,7 +12,7 @@ public class DemoApplication {
 
     @RequestMapping("/")
     String home() {
-        return "!Hola Mundo Kairos desde Github!";
+        return "!Hola Mundo Kairos desde Github version 2!";
     }
 
     public static void main(String[] args) {
